@@ -1,0 +1,18 @@
+#Take{
+    border-style: dashed;
+    width: 200px;
+    height: 200px;
+}
+
+#Captured{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-color: darkorchid;
+}
+
+.name_of_objects{
+    background-color: lightblue;
+}
